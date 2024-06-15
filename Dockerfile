@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-ARG GODOT_VERSION="4.2.1"
+ARG GODOT_VERSION="4.3.beat1"
 
 # Install Godot & templates
 RUN apt update -y \
